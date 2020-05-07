@@ -1,0 +1,234 @@
+body{
+    padding: 0;
+    margin: 0;
+    color: #666666;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+}
+.container-fluid{
+    background-color: rgb(96, 96, 236);
+}
+.container-fluid .fa-facebook{
+    margin-left: 90px; 
+}
+.container-fluid .fa{
+    color: white;
+    margin-top: 8px;
+   padding: 9px ;
+    
+}
+.container-fluid .fa:hover{
+    background-color: rgb(54, 42, 216);
+    color: white;
+    text-decoration: none;
+}
+.status p{
+    color: white;
+    margin-top: 8px;
+    padding: 5px;
+}
+.btn{
+    font-size: 10px;
+    padding: 8px;
+    margin-top: 8px;
+    color:rgb(53, 52, 52);
+    font-weight: 100;
+    text-align: center;
+    width: 90px;
+    cursor: pointer;
+    
+}
+
+.navgatio{
+    background-color:whitesmoke;
+   position: sticky;
+    
+ }
+ .container ul{
+   text-align: center;
+ }
+ 
+ .navbar-header button span{
+   background-color: rgb(96, 96, 236);
+   margin-top: 10px;
+    
+ }
+ 
+ .container ul li a {
+    color: #666666;
+    padding: 8px;
+    margin-top: 15px;   
+ }
+ 
+ .container ul li a:hover{
+    background-color: rgb(96, 96, 236);
+    border-radius: 20px;
+    color: black;
+ }
+ marquee {
+    background-color: rgb(96, 96, 236);
+    margin-left: 100px;
+    margin-top: 15px;
+    color: white;
+   
+  }
+  hr{
+    border: 1px solid green;
+    width: 60px; 
+    text-align: center;
+    
+  }
+  .per{
+    width: 80%;
+    text-align: center;
+    margin-left: 120px;
+  }
+  .intro{
+    background-color: whitesmoke;
+    width: 100%;
+  }
+  .count{
+    margin-top: 100px;
+    background-color: blue;
+    width: 100%;
+  }
+  .fun{
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .fun h2{
+    font-size: 40px;
+    color: white;
+    
+  }
+  .fun h5{
+    color: white;
+    font-size: 17px;
+    font-weight: bold;
+    letter-spacing: 1px;
+  }
+  .head{
+    margin-top: 50px;
+  }
+  .box{
+    background-color: white;
+    padding:10px;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-top: 20px;
+  }
+
+  .section-content{
+    padding: 10px;
+    padding-bottom: 70px; 
+    color: rgb(38, 96, 255);
+  }
+  .section-content img{
+    cursor: pointer;
+  }
+  .box1{
+    background-color: white;
+    padding:10px;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-top: 20px;
+    
+  }
+  .news marquee{
+    background-color: white;
+    color: black;
+    
+  }
+ .new marquee{
+    margin-left: -5px;
+    border-top: 1px solid rgb(223, 217, 217);
+    margin-top: -20px;
+  }
+  .project{
+    background-color: rgb(230, 230, 230);
+    padding: 10px;
+  }
+  .new{
+    margin-top: 50px;
+  }
+  .fa-angle-up{
+    color: red;
+    font-size: 45px;
+    font-weight: bold;
+    padding: 5PX;
+    text-align: center;
+  }
+  .scrollToTop {
+    background-color: blue;
+    width: 100px;
+   
+    padding: 20px;
+    
+  }
+  .footer-bottom{
+    background-color: blue;
+  }
+  .footer{
+   
+    background-color: rgb(37, 39, 46);
+    padding: 50px;
+}
+.dark li {
+list-style: none;
+}
+ul.styled-icons li{
+  display: inline;
+  
+}
+.styled-icons{
+  margin-left: -250px;
+}
+.styled-icons .fa{
+  color: white;
+  background-color:  rgb(38, 96, 255);
+  border-radius: 50%;
+  width: 25px;
+  padding: 5px;
+  
+}
+.styled-icons .fa:hover{
+  color: white;
+}
+.dark1 h5{
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  
+}
+ 
+.dark ul{
+  margin-left: -210px;
+  
+}
+.dark .fa{
+  color: green;
+  margin-left: -5px;
+  padding-right: 10px;
+  padding-top: 10px;
+  
+}
+.dark{
+  margin-top: 30px;
+}
+.gallary{
+  padding: 20px;
+  margin-bottom: 80px;
+  
+}
+.gallary img{
+  border: 1px solid gray;
+  
+  
+}
+.gallary img:hover{
+  border: 1px solid #777;
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+
+
+
